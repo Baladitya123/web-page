@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding-top: 20px;
+    overflow-x: hidden;
+}
+
+#dataContainer {
+    margin-top: 20px;
+}
+.fetch-btn:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+     transition: all 0.1s ease-in-out;
+     cursor: pointer; 
+     opacity:0.8;
+ 
+  }
